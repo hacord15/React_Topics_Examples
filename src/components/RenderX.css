@@ -1,0 +1,33 @@
+/* Styling the container */
+div {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Styling the heading */
+  h1 {
+    color: #4CAF50;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling the unordered list */
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Styling each list item */
+  li {
+    background-color: #f4f4f4;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 5px;
+    max-width: 200px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-size: 1.2em;
+    color: #333;
+  }
+  
